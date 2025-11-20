@@ -4,51 +4,51 @@
   "coupleInfo": {
     "_comment": "Thông tin cô dâu chú rể",
     "bride": {
-      "name": "Nguyễn Thị Hoài Dung",
+      "name": "Nguyễn Minh Thư",
       "title": "Cô Dâu",
-      "parents": "Con gái của ông bà Nguyễn Văn Thanh và Nguyễn Thị Phương",
-      "description": "Là một nhân viên văn phòng hiện đang làm việc tại Hà Nội. Tính cách là người hiền lành và ít nói, luôn coi trọng tình cảm và yêu thương gia đình. Quan điểm sống của cô: \"Gia đình là điểm tựa vững chắc nhất và là bến đỗ bình yên không đâu sánh bằng đôi với mỗi con người. Đó luôn là nơi tràn ngập tình yêu thương để ta trở về\"",
-      "image": "https://anhvienmimosa.com.vn/wp-content/uploads/2022/05/chup-anh-cuoi-co-dau-mot-minh-4.jpg",
+      "parents": "Con gái của ông bà Nguyễn Quang Hạnh và Nguyên Thị Thơm",
+      "description": "Là một bác sĩ hiện đang làm việc tại Hà Nội. Tính cách là người hiền lành và ít nói, luôn coi trọng tình cảm và yêu thương gia đình. Quan điểm sống của cô: \"Gia đình là điểm tựa vững chắc nhất và là bến đỗ bình yên không đâu sánh bằng đôi với mỗi con người. Đó luôn là nơi tràn ngập tình yêu thương để ta trở về\"",
+      "image": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH03375.JPG?raw=true",
       "images": {
         "_comment": "2 ảnh cho desktop (left, right) và 2 ảnh cho mobile",
         "desktop": {
-          "left": "https://anhvienmimosa.com.vn/wp-content/uploads/2022/05/chup-anh-cuoi-co-dau-mot-minh-4.jpg",
-          "right": "https://anhvienmimosa.com.vn/wp-content/uploads/2022/05/chup-anh-cuoi-co-dau-mot-minh-5.jpg"
+          "left": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH03375.JPG?raw=true",
+          "right": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH03143.JPG?raw=true"
         },
         "mobile": {
-          "left": "https://anhvienmimosa.com.vn/wp-content/uploads/2022/05/chup-anh-cuoi-co-dau-mot-minh-6.jpg",
-          "right": "https://anhvienmimosa.com.vn/wp-content/uploads/2022/05/chup-anh-cuoi-co-dau-mot-minh-7.jpg"
+          "left": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH03375.JPG?raw=true",
+          "right": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH03143.JPG?raw=true"
         }
       },
-      "facebook": "https://www.facebook.com/hoaiidungg22",
+      "facebook": "https://www.facebook.com/minh.thu.268737",
       "instagram": "#"
     },
     "groom": {
-      "name": "Đỗ Quốc Bảo", 
+      "name": "Phạm Trung Bằng",
       "title": "Chú Rể",
-      "parents": "Con trai của bà Nguyễn Thị Hường",
+      "parents": "Con trai của bà Nguyễn Thị Phượng",
       "description": "Là một lập trình viên hiện đang làm việc tại Hà Nội. Tính cách là người hiền lành và ít nói, luôn coi trọng tình cảm và yêu thương gia đình. Quan điểm sống của anh: \"Gia đình là điểm tựa vững chắc nhất và là bến đỗ bình yên không đâu sánh bằng đôi với mỗi con người. Đó luôn là nơi tràn ngập tình yêu thương để ta trở về\"",
-      "image": "https://felywedding.com/wp-content/uploads/2022/01/35-10.jpg",
+      "image": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH03064.JPG?raw=true",
       "images": {
         "_comment": "2 ảnh cho desktop (left, right) và 2 ảnh cho mobile",
         "desktop": {
-          "left": "https://felywedding.com/wp-content/uploads/2022/01/35-10.jpg",
-          "right": "https://studiovietnam.vn/wp-content/uploads/2023/02/chu-re-1-minh-2.jpg"
+          "left": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH03064.JPG?raw=true",
+          "right": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH03084.JPG?raw=true"
         },
         "mobile": {
-          "left": "https://felywedding.com/wp-content/uploads/2022/01/35-10.jpg",
-          "right": "https://studiovietnam.vn/wp-content/uploads/2023/02/chu-re-1-minh-2.jpg"
+          "left": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH03064.JPG?raw=true",
+          "right": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH03084.JPG?raw=true"
         }
       },
-      "facebook": "https://www.facebook.com/oquocbao.821976",
+      "facebook": "https://www.facebook.com/bangpt1998",
       "instagram": "#"
     }
   },
 
   "weddingDate": {
     "_comment": "Thông tin ngày cưới - Format: YYYY-MM-DDTHH:MM:SS",
-    "datetime": "2026-02-15T09:00:00",
-    "displayDate": "15 . 02 . 2026",
+    "datetime": "2025-12-20T09:00:00",
+    "displayDate": "20 . 12 . 2025",
     "invitationText": "Chúng tôi sắp kết hôn!"
   },
 
@@ -58,19 +58,19 @@
       "_comment": "4 ảnh cho hero slider trên desktop",
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1519741497674-611481863552?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+          "url": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH03469.JPG?raw=true",
           "alt": "Ảnh cưới desktop 1"
         },
         {
-          "url": "https://images.unsplash.com/photo-1606216794074-735e91aa2c92?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80", 
+          "url": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH02562.JPG?raw=true",
           "alt": "Ảnh cưới desktop 2"
         },
         {
-          "url": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+          "url": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH03426.JPG?raw=true",
           "alt": "Ảnh cưới desktop 3"
         },
         {
-          "url": "https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
+          "url": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH02750.JPG?raw=true",
           "alt": "Ảnh cưới desktop 4"
         }
       ]
@@ -79,20 +79,20 @@
       "_comment": "4 ảnh riêng cho hero slider trên mobile - tối ưu cho màn hình nhỏ",
       "images": [
         {
-          "url": "https://tuart.net/wp-content/uploads/2018/11/337037441_593616946031217_3723428232241468671_n-1-683x1024.jpg",
-          "alt": "Ảnh cưới mobile 1"
+          "url": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH03469.JPG?raw=true",
+          "alt": "Ảnh cưới desktop 1"
         },
         {
-          "url": "https://anhvienmimosa.com.vn/wp-content/uploads/2024/11/chup-anh-cuoi-bo-doi-9.jpg",
-          "alt": "Ảnh cưới mobile 2"
+          "url": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH02562.JPG?raw=true",
+          "alt": "Ảnh cưới desktop 2"
         },
         {
-          "url": "https://omni.vn/wp-content/uploads/2024/07/428684308_815560980600417_4611392218242734120_n.jpg",
-          "alt": "Ảnh cưới mobile 3"
+          "url": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH03426.JPG?raw=true",
+          "alt": "Ảnh cưới desktop 3"
         },
         {
-          "url": "https://khoistudio.vn/wp-content/uploads/2023/03/13.jpg",
-          "alt": "Ảnh cưới mobile 4"
+          "url": "https://github.com/montagehasaghi/chup-anh-cuoi/blob/main/NQH02750.JPG?raw=true",
+          "alt": "Ảnh cưới desktop 4"
         }
       ]
     }
@@ -231,13 +231,13 @@
     "_comment": "Cài đặt Google Maps - Thay đổi embed URL theo địa điểm thực tế",
     "brideFamily": {
       "title": "Nhà Gái",
-      "address": "Xóm 3, Xã Giao Bình, Tỉnh Ninh Bình",
-      "embedUrl": "https://www.google.com/maps/place/20%C2%B014'34.7%22N+106%C2%B024'07.8%22E/@20.2429722,106.3995918,17z/data=!3m1!4b1!4m4!3m3!8m2!3d20.2429722!4d106.4021667?entry=ttu&g_ep=EgoyMDI1MDcyOC4wIKXMDSoASAFQAw%3D%3D"
+      "address": "Vĩnh Lộc, Chiêm Hóa, Tuyên Quang",
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3695.547878726697!2d105.26729637513765!3d22.14320757979982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x36cb445c00000001%3A0x3af4e8fc32f0ca2b!2zTmhhzIAgSGHMgG5nIEJpYSBIxqFpIEhhzIAgTsO0zKNpIEhhzKNuaCBUaMahbQ!5e0!3m2!1svi!2s!4v1763647927792!5m2!1svi!2s"
     },
     "groomFamily": {
       "title": "Nhà Trai", 
-      "address": "Xóm 3, Xã Giao Bình, Tỉnh Ninh Bình",
-      "embedUrl": "https://www.google.com/maps/place/20%C2%B014'34.7%22N+106%C2%B024'07.8%22E/@20.2429722,106.3995918,17z/data=!3m1!4b1!4m4!3m3!8m2!3d20.2429722!4d106.4021667?entry=ttu&g_ep=EgoyMDI1MDcyOC4wIKXMDSoASAFQAw%3D%3D"
+      "address": "Sinh Liên, Bình Minh, Hà Nội",
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3727.4777629872287!2d105.77044737510134!3d20.893089680722564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31344d941c52f8eb%3A0x29395b1dc0216cdf!2zTmjDoCB2xINuIGhvw6EgdGjDtG4gU2luaCBMacOqbg!5e0!3m2!1svi!2s!4v1763647853975!5m2!1svi!2s"
     }
   },
 
