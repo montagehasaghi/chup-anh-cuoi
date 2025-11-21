@@ -4,7 +4,7 @@ Website thiệp cưới đẹp và responsive, được thiết kế để chia 
 
 ## 🌐 Live Demo
 
-🔗 **Website thiệp cưới:** [https://baond1704.github.io/Wedding-invitation-/](https://baond1704.github.io/Wedding-invitation-/)
+🔗 **Website thiệp cưới:** [https://montagehasaghi.github.io/chup-anh-cuoi/](https://montagehasaghi.github.io/chup-anh-cuoi/)
 
 *(Thay `YOUR_USERNAME` bằng username GitHub của bạn)*
 
