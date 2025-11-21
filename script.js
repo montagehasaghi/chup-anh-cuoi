@@ -350,7 +350,7 @@ function submitRSVP(data) {
 // Google Sheets Integration
 function sendToGoogleSheets(data) {
     // Thay YOUR_GOOGLE_APPS_SCRIPT_URL bằng URL thực từ Apps Script deployment
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbw05BzvRHuPUFBDEGUqBH_0OmP3mEB0EiqvnzYlA14MuvC6yp7BRh1OA4bb6k0GOzI/exec';
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbzmn6oypQt2aJvKiNMXhJd9xWlHYOj9L4_KRxiiLbzAEqcxitt3VLEvVOrsAusW2GAJ/exec';
     
     // Map dữ liệu từ form fields sang format mong đợi
     const mappedData = {

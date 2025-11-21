@@ -563,6 +563,11 @@ p {
     font-size: 22px;
     list-style: none;
     display: flex;
+    font-family: 'Playfair Display', 'Cormorant Garamond', Georgia, serif;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #5c4033; /* màu nâu mocha sang trọng */
 }
 .nav-menu li {
     margin: 0 10px;
@@ -571,11 +576,15 @@ p {
     text-decoration: none;
     color: #333;
     font-weight: 500;
-    transition: color 0.3s;
+    padding: 12px 20px;
+    transition: all 0.3s ease;
+    position: relative;
 }
 .nav-menu a:hover {
     color: #e40046;
 }
+
+
 .hamburger {
     display: none;
     flex-direction: column;
